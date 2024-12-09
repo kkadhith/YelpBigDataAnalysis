@@ -1,0 +1,6 @@
+{
+    "06": { "name": "California", "businesses": 23000, "averageRating": 4.2 },
+    "48": { "name": "Texas", "businesses": 18000, "averageRating": 4.0 },
+    "36": { "name": "New York", "businesses": 15000, "averageRating": 4.3 }
+  }
+  

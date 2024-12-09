@@ -1,0 +1,18 @@
+{
+    "04": {"state":"AZ","cool":179079,"funny":134801,"useful":548819,"avgStars":3.5920096852,"attribute":"RestaurantsTakeOut"},
+    "22": {"state":"LA","cool":408085,"funny":276782,"useful":840927,"avgStars":3.6791616284,"attribute":"RestaurantsTakeOut"},
+    "34": {"state":"NJ","cool":103538,"funny":82927,"useful":312179,"avgStars":3.4591143393,"attribute":"RestaurantsTakeOut"},
+    "32": {"state":"NV","cool":347008,"funny":177504,"useful":685769,"avgStars":3.7368762152,"attribute":"RestaurantsGoodForGroups"},
+    "16": {"state":"ID","cool":74151,"funny":42618,"useful":181513,"avgStars":3.7076337587,"attribute":"RestaurantsTakeOut"},
+    "06": {"state":"CA","cool":194170,"funny":140784,"useful":405032,"avgStars":3.9967326542,"attribute":"RestaurantsTakeOut"},
+    "37": {"state":"NC","cool":3,"funny":4,"useful":14,"avgStars":2.0,"attribute":"GoodForKids"},
+    "10": {"state":"DE","cool":20413,"funny":17279,"useful":73554,"avgStars":3.3549668874,"attribute":"RestaurantsTakeOut"},
+    "29": {"state":"MO","cool":248152,"funny":167828,"useful":571703,"avgStars":3.5460918171,"attribute":"RestaurantsTakeOut"},
+    "17": {"state":"IL","cool":14103,"funny":11920,"useful":45363,"avgStars":3.3696969697,"attribute":"RestaurantsTakeOut"},
+    "18": {"state":"IN","cool":233535,"funny":98916,"useful":528504,"avgStars":3.5882457544,"attribute":"RestaurantsTakeOut"},
+    "47": {"state":"TN","cool":237123,"funny":166379,"useful":561534,"avgStars":3.5714996682,"attribute":"RestaurantsTakeOut"},
+    "42": {"state":"PA","cool":790843,"funny":593209,"useful":2071411,"avgStars":3.5730191839,"attribute":"RestaurantsTakeOut"},
+    "01": {"state":"AL","cool":61842,"funny":40713,"useful":165715,"avgStars":3.4475148035,"attribute":"RestaurantsTakeOut"},
+    "12": {"state":"FL","cool":573347,"funny":330989,"useful":1288344,"avgStars":3.6109570832,"attribute":"RestaurantsTakeOut"},
+    "08": {"state":"CO","cool":10,"funny":5,"useful":17,"avgStars":4.0,"attribute":"GoodForKids"}
+  }
