@@ -1,5 +1,4 @@
 import MapChart from "./components/Map";
-import MLPredictionForm from "./components/ModelPredictor.jsx"
 
 function App() {
   return (
