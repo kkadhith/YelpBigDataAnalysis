@@ -7,6 +7,9 @@ This directory contains the frontend component of our Big Data Analysis. More sp
 ### Installation
 
 `npm install`
+
+To install all dependencies. Then, run the command:
+
 `npm run dev`
 
 In this directory.
