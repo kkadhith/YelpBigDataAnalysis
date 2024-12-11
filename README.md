@@ -19,7 +19,7 @@ The frontend directory contains detailed information on how to run the web app /
 
 
 ## Contributions
-- Adhith - Interactive Map
-- Joseph - Visualizations
-- Srijan - Spark SQL Queries
-- Sarah - Machine Learning Model
+- Adhith - Interactive Map (frontend directory)
+- Joseph - Visualizations (visualizations directory)
+- Srijan - Spark SQL Queries (sparkSQL directory)
+- Sarah - Machine Learning Model (ml_model directory)
