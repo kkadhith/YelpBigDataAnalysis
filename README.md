@@ -4,7 +4,7 @@
 
 akart006@ucr.edu, jmang018@ucr.edu, spaga006@ucr.edu, srami109@ucr.edu
 
-Group 8
+Group 8, Data Scrubbers
 
 ## Retrieving the Dataset
 
