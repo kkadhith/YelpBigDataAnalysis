@@ -4,6 +4,9 @@
 
 Group 8
 
+## Retrieving the Dataset
+
+The Yelp Dataset can be found on https://www.yelp.com/dataset or download it from the Google Drive link. The two main pieces of data that is needed to run our Spark queries are `yelp_academic_dataset_business.json` and `yelp_academic_dataset_review.json`.
 
 ## Running the Code:
 For the ML model, PySpark queries, and visualizations, install the required dependencies using 
