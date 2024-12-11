@@ -6,7 +6,11 @@ Group 8
 
 
 ## Running the Code:
-For the ML model, PySpark queries, and visualizations, install the required dependencies using `pip install -r requirements.txt`. The frontend directory contains detailed information on how to run the web app / interactive map.
+For the ML model, PySpark queries, and visualizations, install the required dependencies using 
+
+`pip install -r requirements.txt`
+
+The frontend directory contains detailed information on how to run the web app / interactive map.
 
 
 ## Contributions
