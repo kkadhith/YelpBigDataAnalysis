@@ -1,7 +1,8 @@
 # Yelp’s Perfect Establishments: Big Data Analysis
 
-**Authors:** Adhith Karthikeyan, Joseph Mangapit, Srijan Pagadala, Sarah Ramirez
+![Interactive Map Preview](https://github.com/kkadhith/YelpBigDataAnalysis/blob/main/images/BigDataPreview.png "Map Preview")
 
+**Authors:** Adhith Karthikeyan, Joseph Mangapit, Srijan Pagadala, Sarah Ramirez
 
 ## Retrieving the Dataset
 
