@@ -1,10 +1,7 @@
 # Yelp’s Perfect Establishments: Big Data Analysis
 
-**Authors:** Adhith Karthikeyan (862236204), Joseph Mangapit (862175676), Srijan Pagadala (862212888), Sarah Ramirez (862142920)
+**Authors:** Adhith Karthikeyan, Joseph Mangapit, Srijan Pagadala, Sarah Ramirez
 
-akart006@ucr.edu, jmang018@ucr.edu, spaga006@ucr.edu, srami109@ucr.edu
-
-Group 8, Data Scrubbers
 
 ## Retrieving the Dataset
 
@@ -16,10 +13,3 @@ For the ML model, PySpark queries, and visualizations, install the required depe
 `pip install -r requirements.txt`
 
 The frontend directory contains detailed information on how to run the web app / interactive map.
-
-
-## Contributions
-- Adhith - Interactive Map (frontend directory)
-- Joseph - Visualizations (visualizations directory)
-- Srijan - Spark SQL Queries (sparkSQL directory)
-- Sarah - Machine Learning Model (ml_model directory)
