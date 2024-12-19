@@ -1,4 +1,6 @@
-# Yelp’s Perfect Establishments: Big Data Analysis
+# Yelp’s Perfect Establishments
+
+"Yelp's Perfect Establishments" is a Big Data analysis project. Using the Yelp Open Dataset, we extract business insights using Spark and display it on a user friendly interface. 
 
 ![Interactive Map Preview](https://github.com/kkadhith/YelpBigDataAnalysis/blob/main/images/BigDataPreview.png "Map Preview")
 
